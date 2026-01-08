@@ -1,0 +1,15 @@
+Package: mbx
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Isam Ahmed <isamahmed782@gmail.com>
+Depends: docker.io (>= 20.10)
+Filename: debs/mbx_1.0.0_amd64.deb
+Size: 511084
+MD5sum: f16b824d462cf6db261fb02586e16c75
+SHA1: 9acb1c5a4397bc1c0a657eed00872e93d1241c43
+SHA256: c166557a48147bce86dd3997045861e3304338ccab6b5af7b7f374001381b23c
+Section: utils
+Priority: optional
+Description: Minimal Brave Xubuntu Docker Desktop CLI
+ A simple CLI tool to start/stop your minimal-brave-xubuntu Docker desktop container.
+
